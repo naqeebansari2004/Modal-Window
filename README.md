@@ -1,5 +1,3 @@
----
-
 # 🪟 Modal Window Project
 
 A simple and responsive modal window implementation using HTML, CSS, and JavaScript. This project demonstrates how to open and close modal popups with smooth animations and multiple closing methods — including the **Escape (Esc) key**.
